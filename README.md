@@ -1,7 +1,5 @@
 # **Behavioral Cloning** 
 
-## Writeup Template
-
 ---
 
 **Behavioral Cloning Project**
@@ -13,14 +11,14 @@ The goals / steps of this project are the following:
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
 
+Below the video of several simulation with different models:
+
 [![Solid white right lane](https://img.youtube.com/vi/iZCi9-zlmgc/0.jpg)](https://www.youtube.com/watch?v=iZCi9-zlmgc)
 
 [//]: # (Image References)
 
 [error_loss]: ./examples/error_loss.png "Mean Squared error loss"
 
-## Rubric Points
----
 ### Files Submitted & Code Quality
 
 #### 1. Submission includes all required files and can be used to run the simulator in autonomous mode
