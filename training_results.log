@@ -1,0 +1,259 @@
+Start reading file for ride 01...
+Start reading file for ride 01...
+Start reading file for ride 01...
+Start reading file for ride 01...
+Start reading file for ride 01...
+Epoch 1/1
+Start reading file for ride 01...
+Start reading file for ride 01...
+Epoch 1/1
+59s - loss: 0.2744 - acc: 0.1853 - val_loss: 0.0511 - val_acc: 0.2474
+dict_keys(['acc', 'val_acc', 'val_loss', 'loss'])
+Start reading file for ride 01...
+Epoch 1/1
+105s - loss: 1.0320 - acc: 0.1696 - val_loss: 0.0515 - val_acc: 0.2318
+dict_keys(['val_acc', 'acc', 'loss', 'val_loss'])
+Start reading file for ride 01...
+Epoch 1/5
+109s - loss: 0.5312 - acc: 0.1890 - val_loss: 0.0505 - val_acc: 0.2526
+Epoch 2/5
+108s - loss: 0.0495 - acc: 0.2376 - val_loss: 0.0566 - val_acc: 0.2214
+Epoch 3/5
+108s - loss: 0.0459 - acc: 0.2322 - val_loss: 0.0446 - val_acc: 0.2422
+Epoch 4/5
+110s - loss: 0.0412 - acc: 0.2358 - val_loss: 0.0392 - val_acc: 0.2526
+Epoch 5/5
+116s - loss: 0.0377 - acc: 0.2348 - val_loss: 0.0469 - val_acc: 0.2214
+dict_keys(['val_acc', 'acc', 'val_loss', 'loss'])
+Start reading file for ride 02...
+Epoch 1/5
+82s - loss: 0.4828 - acc: 0.1794 - val_loss: 0.0531 - val_acc: 0.2465
+Epoch 2/5
+102s - loss: 0.0505 - acc: 0.2354 - val_loss: 0.0504 - val_acc: 0.2151
+Epoch 3/5
+138s - loss: 0.0466 - acc: 0.2324 - val_loss: 0.0485 - val_acc: 0.2292
+Epoch 4/5
+123s - loss: 0.0406 - acc: 0.2357 - val_loss: 0.0479 - val_acc: 0.2396
+Epoch 5/5
+121s - loss: 0.0367 - acc: 0.2334 - val_loss: 0.0421 - val_acc: 0.2222
+dict_keys(['acc', 'loss', 'val_loss', 'val_acc'])
+Start reading file for ride 01...
+Epoch 1/5
+103s - loss: 0.9137 - acc: 0.1832 - val_loss: 0.0398 - val_acc: 0.2526
+Epoch 2/5
+104s - loss: 0.0532 - acc: 0.2370 - val_loss: 0.0561 - val_acc: 0.2214
+Epoch 3/5
+105s - loss: 0.0476 - acc: 0.2337 - val_loss: 0.0503 - val_acc: 0.2344
+Epoch 4/5
+106s - loss: 0.0479 - acc: 0.2355 - val_loss: 0.0307 - val_acc: 0.2526
+Epoch 5/5
+106s - loss: 0.0403 - acc: 0.2353 - val_loss: 0.0473 - val_acc: 0.2214
+dict_keys(['loss', 'val_loss', 'val_acc', 'acc'])
+Start reading file for ride 02...
+Epoch 1/5
+84s - loss: 2.8490 - acc: 0.0986 - val_loss: 0.0599 - val_acc: 0.2257
+Epoch 2/5
+84s - loss: 0.0484 - acc: 0.2370 - val_loss: 0.0333 - val_acc: 0.2796
+Epoch 3/5
+83s - loss: 0.0481 - acc: 0.2262 - val_loss: 0.0372 - val_acc: 0.2639
+Epoch 4/5
+84s - loss: 0.0420 - acc: 0.2354 - val_loss: 0.0382 - val_acc: 0.2118
+Epoch 5/5
+82s - loss: 0.0437 - acc: 0.2279 - val_loss: 0.0564 - val_acc: 0.2257
+dict_keys(['loss', 'val_loss', 'val_acc', 'acc'])
+Start reading file for ride 04...
+Epoch 1/5
+80s - loss: 1.2756 - acc: 0.1455 - val_loss: 0.0872 - val_acc: 0.2222
+Epoch 2/5
+81s - loss: 0.0629 - acc: 0.2400 - val_loss: 0.0494 - val_acc: 0.2390
+Epoch 3/5
+79s - loss: 0.0526 - acc: 0.2389 - val_loss: 0.0419 - val_acc: 0.2431
+Epoch 4/5
+80s - loss: 0.0526 - acc: 0.2380 - val_loss: 0.0365 - val_acc: 0.2535
+Epoch 5/5
+80s - loss: 0.0478 - acc: 0.2389 - val_loss: 0.0506 - val_acc: 0.2361
+dict_keys(['loss', 'val_loss', 'val_acc', 'acc'])
+Start reading file for ride 05...
+Epoch 1/5
+88s - loss: 1.2921 - acc: 0.1659 - val_loss: 0.0459 - val_acc: 0.2431
+Epoch 2/5
+88s - loss: 0.0536 - acc: 0.2278 - val_loss: 0.0428 - val_acc: 0.2361
+Epoch 3/5
+87s - loss: 0.0501 - acc: 0.2310 - val_loss: 0.0442 - val_acc: 0.2361
+Epoch 4/5
+88s - loss: 0.0501 - acc: 0.2275 - val_loss: 0.0572 - val_acc: 0.2222
+Epoch 5/5
+87s - loss: 0.0477 - acc: 0.2313 - val_loss: 0.0381 - val_acc: 0.2326
+dict_keys(['loss', 'val_loss', 'val_acc', 'acc'])
+Start reading file for ride 01...
+Start reading file for ride 02...
+Epoch 1/5
+187s - loss: 1.0402 - acc: 0.1928 - val_loss: 0.0518 - val_acc: 0.2470
+Epoch 2/5
+186s - loss: 0.0492 - acc: 0.2343 - val_loss: 0.0490 - val_acc: 0.2262
+Epoch 3/5
+185s - loss: 0.0495 - acc: 0.2340 - val_loss: 0.0413 - val_acc: 0.2572
+Epoch 4/5
+185s - loss: 0.0429 - acc: 0.2346 - val_loss: 0.0463 - val_acc: 0.2336
+Epoch 5/5
+196s - loss: 0.0408 - acc: 0.2350 - val_loss: 0.0269 - val_acc: 0.2504
+dict_keys(['loss', 'val_loss', 'val_acc', 'acc'])
+Start reading file for ride 04...
+Start reading file for ride 01...
+Epoch 1/5
+113s - loss: 0.2042 - acc: 0.2110 - val_loss: 0.0633 - val_acc: 0.2161
+Epoch 2/5
+108s - loss: 0.0505 - acc: 0.2365 - val_loss: 0.0486 - val_acc: 0.2292
+Epoch 3/5
+106s - loss: 0.0442 - acc: 0.2381 - val_loss: 0.0486 - val_acc: 0.2266
+Epoch 4/5
+107s - loss: 0.0386 - acc: 0.2358 - val_loss: 0.0483 - val_acc: 0.2161
+Epoch 5/5
+110s - loss: 0.0356 - acc: 0.2382 - val_loss: 0.0343 - val_acc: 0.2292
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 02...
+Epoch 1/5
+84s - loss: 0.1556 - acc: 0.2085 - val_loss: 0.0362 - val_acc: 0.2778
+Epoch 2/5
+85s - loss: 0.0370 - acc: 0.2357 - val_loss: 0.0311 - val_acc: 0.2366
+Epoch 3/5
+84s - loss: 0.0334 - acc: 0.2257 - val_loss: 0.0309 - val_acc: 0.2431
+Epoch 4/5
+85s - loss: 0.0277 - acc: 0.2373 - val_loss: 0.0348 - val_acc: 0.2257
+Epoch 5/5
+83s - loss: 0.0263 - acc: 0.2246 - val_loss: 0.0365 - val_acc: 0.2222
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 04...
+Epoch 1/5
+81s - loss: 0.5271 - acc: 0.1910 - val_loss: 0.0369 - val_acc: 0.2569
+Epoch 2/5
+81s - loss: 0.0580 - acc: 0.2373 - val_loss: 0.0336 - val_acc: 0.2516
+Epoch 3/5
+80s - loss: 0.0543 - acc: 0.2339 - val_loss: 0.0626 - val_acc: 0.2465
+Epoch 4/5
+80s - loss: 0.0501 - acc: 0.2377 - val_loss: 0.0436 - val_acc: 0.2465
+Epoch 5/5
+80s - loss: 0.0461 - acc: 0.2335 - val_loss: 0.0464 - val_acc: 0.2361
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 05...
+Epoch 1/5
+88s - loss: 1.4942 - acc: 0.1440 - val_loss: 0.0424 - val_acc: 0.2465
+Epoch 2/5
+88s - loss: 0.0534 - acc: 0.2369 - val_loss: 0.0557 - val_acc: 0.2153
+Epoch 3/5
+87s - loss: 0.0504 - acc: 0.2273 - val_loss: 0.0626 - val_acc: 0.2188
+Epoch 4/5
+88s - loss: 0.0505 - acc: 0.2378 - val_loss: 0.0616 - val_acc: 0.2083
+Epoch 5/5
+87s - loss: 0.0487 - acc: 0.2267 - val_loss: 0.0457 - val_acc: 0.2292
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 01...
+Start reading file for ride 02...
+Epoch 1/5
+188s - loss: 0.7532 - acc: 0.2082 - val_loss: 0.0526 - val_acc: 0.2351
+Epoch 2/5
+186s - loss: 0.0491 - acc: 0.2353 - val_loss: 0.0411 - val_acc: 0.2307
+Epoch 3/5
+186s - loss: 0.0444 - acc: 0.2332 - val_loss: 0.0409 - val_acc: 0.2470
+Epoch 4/5
+185s - loss: 0.0414 - acc: 0.2350 - val_loss: 0.0435 - val_acc: 0.2426
+Epoch 5/5
+186s - loss: 0.0380 - acc: 0.2327 - val_loss: 0.0342 - val_acc: 0.2403
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 04...
+Start reading file for ride 05...
+Epoch 1/5
+167s - loss: 0.0662 - acc: 0.2327 - val_loss: 0.0535 - val_acc: 0.2309
+Epoch 2/5
+165s - loss: 0.0383 - acc: 0.2327 - val_loss: 0.0275 - val_acc: 0.2292
+Epoch 3/5
+166s - loss: 0.0352 - acc: 0.2361 - val_loss: 0.0455 - val_acc: 0.2301
+Epoch 4/5
+165s - loss: 0.0314 - acc: 0.2329 - val_loss: 0.0251 - val_acc: 0.2292
+Epoch 5/5
+165s - loss: 0.0310 - acc: 0.2361 - val_loss: 0.0405 - val_acc: 0.2301
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 01...
+Start reading file for ride 02...
+Start reading file for ride 04...
+Epoch 1/5
+262s - loss: 0.1451 - acc: 0.2238 - val_loss: 0.0448 - val_acc: 0.2280
+Epoch 2/5
+264s - loss: 0.0382 - acc: 0.2340 - val_loss: 0.0324 - val_acc: 0.2373
+Epoch 3/5
+262s - loss: 0.0348 - acc: 0.2389 - val_loss: 0.0363 - val_acc: 0.2378
+Epoch 4/5
+263s - loss: 0.0317 - acc: 0.2343 - val_loss: 0.0241 - val_acc: 0.2373
+Epoch 5/5
+261s - loss: 0.0312 - acc: 0.2390 - val_loss: 0.0337 - val_acc: 0.2315
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 01...
+Start reading file for ride 02...
+Start reading file for ride 05...
+Epoch 1/5
+270s - loss: 0.2238 - acc: 0.2139 - val_loss: 0.0468 - val_acc: 0.2292
+Epoch 2/5
+271s - loss: 0.0479 - acc: 0.2332 - val_loss: 0.0381 - val_acc: 0.2315
+Epoch 3/5
+269s - loss: 0.0377 - acc: 0.2339 - val_loss: 0.0439 - val_acc: 0.2350
+Epoch 4/5
+271s - loss: 0.0371 - acc: 0.2330 - val_loss: 0.0313 - val_acc: 0.2338
+Epoch 5/5
+269s - loss: 0.0318 - acc: 0.2338 - val_loss: 0.0293 - val_acc: 0.2338
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 02...
+Start reading file for ride 04...
+Start reading file for ride 05...
+Epoch 1/5
+247s - loss: 0.6601 - acc: 0.2012 - val_loss: 0.0453 - val_acc: 0.2442
+Epoch 2/5
+245s - loss: 0.0492 - acc: 0.2319 - val_loss: 0.0527 - val_acc: 0.2280
+Epoch 3/5
+246s - loss: 0.0441 - acc: 0.2357 - val_loss: 0.0399 - val_acc: 0.2477
+Epoch 4/5
+244s - loss: 0.0427 - acc: 0.2326 - val_loss: 0.0453 - val_acc: 0.2222
+Epoch 5/5
+246s - loss: 0.0387 - acc: 0.2351 - val_loss: 0.0291 - val_acc: 0.2292
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 01...
+Start reading file for ride 02...
+Start reading file for ride 04...
+Start reading file for ride 05...
+Epoch 1/5
+349s - loss: 0.9560 - acc: 0.2078 - val_loss: 0.0572 - val_acc: 0.2300
+Epoch 2/5
+348s - loss: 0.0462 - acc: 0.2329 - val_loss: 0.0410 - val_acc: 0.2248
+Epoch 3/5
+347s - loss: 0.0393 - acc: 0.2355 - val_loss: 0.0395 - val_acc: 0.2361
+Epoch 4/5
+349s - loss: 0.0391 - acc: 0.2329 - val_loss: 0.0483 - val_acc: 0.2276
+Epoch 5/5
+347s - loss: 0.0356 - acc: 0.2349 - val_loss: 0.0357 - val_acc: 0.2222
+dict_keys(['val_loss', 'acc', 'val_acc', 'loss'])
+Start reading file for ride 02...
+Start reading file for ride 05...
+Epoch 1/5
+176s - loss: 3.1663 - acc: 0.1519 - val_loss: 0.0522 - val_acc: 0.2257
+Epoch 2/5
+171s - loss: 0.0508 - acc: 0.2348 - val_loss: 0.0472 - val_acc: 0.2413
+Epoch 3/5
+171s - loss: 0.0467 - acc: 0.2290 - val_loss: 0.0510 - val_acc: 0.2210
+Epoch 4/5
+178s - loss: 0.0457 - acc: 0.2339 - val_loss: 0.0443 - val_acc: 0.2483
+Epoch 5/5
+176s - loss: 0.0423 - acc: 0.2293 - val_loss: 0.0424 - val_acc: 0.2246
+dict_keys(['val_acc', 'val_loss', 'acc', 'loss'])
+Start reading file for ride 02...
+Start reading file for ride 04...
+Epoch 1/5
+176s - loss: 0.1155 - acc: 0.2205 - val_loss: 0.0452 - val_acc: 0.2292
+Epoch 2/5
+172s - loss: 0.0502 - acc: 0.2394 - val_loss: 0.0484 - val_acc: 0.2344
+Epoch 3/5
+174s - loss: 0.0419 - acc: 0.2330 - val_loss: 0.0325 - val_acc: 0.2292
+Epoch 4/5
+172s - loss: 0.0404 - acc: 0.2394 - val_loss: 0.0406 - val_acc: 0.2344
+Epoch 5/5
+173s - loss: 0.0355 - acc: 0.2326 - val_loss: 0.0289 - val_acc: 0.2292
+dict_keys(['val_acc', 'val_loss', 'acc', 'loss'])
+
